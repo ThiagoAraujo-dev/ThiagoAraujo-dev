@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Thiago Araújo
 
-<!--
-**ThiagoAraujo-dev/ThiagoAraujo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Desenvolvedor Backend Pleno** focado em Node.js, TypeScript, Kotlin e mensagerias.  
+💡 Apaixonado por construir APIs performáticas, microserviços e soluções escaláveis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e stacks que trabalho
+- **Backend:** Node.js, TypeScript, Kotlin, Java, Spring Boot
+- **Bancos de dados:** PostgreSQL, Redis, BigQuery
+- **Mensageria:** RabbitMQ, Google Pub/Sub
+- **Outros:** Docker, Git, GitHub Actions, testes unitários e integração (Jest, JUnit, MockK)
+- **Documentação:** Swagger / OpenAPI, README detalhado
+
+---
+
+## 🛠 Alguns projetos que construí
+- 📊 **[dryve-tech-test-thiago-araujo](https://github.com/ThiagoAraujo-dev/dryve-tech-test-thiago-araujo)** — API em Kotlin + Spring Boot que cadastra e consulta veículos com preço da FIPE.
+- 📦 **API de monitoramento** — Microserviço que processa transmissões de veículos em tempo real.
+- 🐇 **Integração com RabbitMQ** — Sistema para gerar alertas e processar mensagens assíncronas.
+
+*(Alguns projetos privados ou internos)*
+
+---
+
+## ✏️ Sobre mim
+- 💻 Formado em Computação em Nuvem
+- 🎯 Foco em criar APIs limpas, seguras e documentadas
+- 📚 Sempre estudando arquitetura de software, DDD e boas práticas
+- 🤝 Gosto de compartilhar conhecimento e ajudar o time a crescer
+
+---
+
+## 📫 Como me encontrar
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/seunome](https://www.linkedin.com/in/thiago-araujo-a959231b7))  
+- ✉️ thiagoaraujo.audio@email.com
+
+---
+
+⭐ **Obrigado por visitar meu perfil!**
