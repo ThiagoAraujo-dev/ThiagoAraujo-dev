@@ -32,7 +32,7 @@
 ---
 
 ## 📫 Como me encontrar
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/seunome](https://www.linkedin.com/in/thiago-araujo-a959231b7))  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/thiago-araujo-a959231b7)  
 - ✉️ thiagoaraujo.audio@email.com
 
 ---
